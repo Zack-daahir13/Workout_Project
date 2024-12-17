@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Workout App - MERN Stack (Frontend Only)
+# 🏋️‍♂️ Workout App - MERN Stack (Full stack)
 
 Welcome to the **Workout App**! This project is a **Full Stack MERN Application** (MongoDB, Express, React, Node.js). However, for now, the **frontend only** is deployed, and the backend is still under development. 💻🚧
 
@@ -32,8 +32,7 @@ Additional tools:
 ---
 
 ## 🖼️ **Project Preview**
-
-Here is a screenshot of the frontend interface:  
+  
 
 ![Screenshot 2024-12-17 172720](https://github.com/user-attachments/assets/1e142fd7-11cf-4da3-a0db-e493ab2eaef1)
 
@@ -108,4 +107,4 @@ If you have any questions or feedback, feel free to reach out:
 
 Name: Zack Daahir
 Email: zackdaahir909@gmail.com
-GitHub: Zack Daahir
+GitHub: Zack-daahir13
