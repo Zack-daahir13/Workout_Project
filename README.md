@@ -51,7 +51,8 @@ workout-app/
     └── package.json   # Backend dependencies
 🖼️ Project Preview
 
-![image](https://github.com/user-attachments/assets/4ffa9eba-ca77-4beb-ac2d-4a3f1f6f27a4)
+![Screenshot 2024-12-17 172720](https://github.com/user-attachments/assets/c0768c83-55a4-41fb-afdb-3848681196bd)
+
 
 
 
