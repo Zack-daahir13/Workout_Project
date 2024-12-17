@@ -50,7 +50,9 @@ workout-app/
     ├── server.js      # Entry point
     └── package.json   # Backend dependencies
 🖼️ Project Preview
-![image](https://github.com/user-attachments/assets/94d8cd0d-2892-4a40-982e-69194ce54570)
+
+![image](https://github.com/user-attachments/assets/4ffa9eba-ca77-4beb-ac2d-4a3f1f6f27a4)
+
 
 
 🎉 Features
