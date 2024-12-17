@@ -35,7 +35,8 @@ Additional tools:
 
 Here is a screenshot of the frontend interface:  
 
-![Project Preview](./Screenshot%202024-12-17%20172720.png)
+![Screenshot 2024-12-17 172720](https://github.com/user-attachments/assets/1e142fd7-11cf-4da3-a0db-e493ab2eaef1)
+
 
 ---
 
