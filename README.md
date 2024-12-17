@@ -31,6 +31,14 @@ Additional tools:
 
 ---
 
+## 🖼️ **Project Preview**
+
+Here is a screenshot of the frontend interface:  
+
+![Project Preview](./Screenshot%202024-12-17%20172720.png)
+
+---
+
 ## 📂 **Project Structure**
 
 Here is the folder structure:
@@ -49,13 +57,6 @@ workout-app/
     ├── routes/        # API Routes
     ├── server.js      # Entry point
     └── package.json   # Backend dependencies
-🖼️ Project Preview
-
-![Screenshot 2024-12-17 172720](https://github.com/user-attachments/assets/c0768c83-55a4-41fb-afdb-3848681196bd)
-
-
-
-
 🎉 Features
 User-friendly Interface 🖥️
 Simple and intuitive UI built with React.
